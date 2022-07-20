@@ -55,7 +55,7 @@ Top banner start
 }
 
 .top-banner-left button {
-  background-color:#929150;
+  background-color: #929150;
   border-radius: 5px;
   padding: 16px 25px;
   color: #ffff;
@@ -68,7 +68,7 @@ Top banner start
 .top-banner-left button:hover {
   background-color: #000000;
   border: 2px solid #929150;
-  color:#929150;
+  color: #929150;
 }
 /* ------------ 
 World cup update and details
@@ -185,7 +185,7 @@ footer
   border: 1px solid #414141d8;
 }
 
-.social i{
+.social i {
   color: #929150;
   font-size: 20px;
   padding: 5px;
@@ -263,7 +263,7 @@ Responsive design
     background-color: #fff;
   }
   .button-blog {
-    background-color:#929150;
+    background-color: #929150;
     color: #ffff;
   }
   .footer-menu {
@@ -334,8 +334,7 @@ Responsive design
     border: 1px solid #cbcaca61;
     background-color: #fff;
   }
-  
-  
+
   .button-blog {
     background-color: #929150;
     color: #ffff;
