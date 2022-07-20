@@ -205,6 +205,11 @@ Responsive design
     text-align: center;
   }
   .top-banner-left p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .top-banner-left p {
     font-size: 10px;
     color: #ffff;
     text-align: center;
@@ -324,7 +329,6 @@ Responsive design
     background-color: #fff;
   }
   .first-blog-button {
-    
   }
   .button-blog {
     background-color: #dd0000;
