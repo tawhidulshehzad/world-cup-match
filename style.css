@@ -55,7 +55,7 @@ Top banner start
 }
 
 .top-banner-left button {
-  background-color: #dd0000;
+  background-color:#929150;
   border-radius: 5px;
   padding: 16px 25px;
   color: #ffff;
@@ -67,8 +67,8 @@ Top banner start
 }
 .top-banner-left button:hover {
   background-color: #000000;
-  border: 2px solid #dd0000;
-  color: red;
+  border: 2px solid #929150;
+  color:#929150;
 }
 /* ------------ 
 World cup update and details
@@ -137,7 +137,7 @@ World cup update and details
   font-size: 20px;
 }
 .button-blog {
-  background-color: #dd0000;
+  background-color: #929150;
   color: #ffff;
 }
 .transfer button {
@@ -183,6 +183,12 @@ footer
   width: 90%;
   margin: 50px;
   border: 1px solid #414141d8;
+}
+
+.social i{
+  color: #929150;
+  font-size: 20px;
+  padding: 5px;
 }
 
 /* ----------------
@@ -257,7 +263,7 @@ Responsive design
     background-color: #fff;
   }
   .button-blog {
-    background-color: #dd0000;
+    background-color:#929150;
     color: #ffff;
   }
   .footer-menu {
@@ -331,7 +337,7 @@ Responsive design
   
   
   .button-blog {
-    background-color: #dd0000;
+    background-color: #929150;
     color: #ffff;
     /* width: 170px; */
   }
@@ -348,7 +354,7 @@ Responsive design
     margin: 20px 0;
   }
   .footer-button button {
-    background-color: #dd0000;
+    background-color: #929150;
     padding: 10px 20px;
     color: #ffff;
     border: none;
