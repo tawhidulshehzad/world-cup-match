@@ -328,30 +328,12 @@ Responsive design
     border: 1px solid #cbcaca61;
     background-color: #fff;
   }
-  /* .match-category {
-    display: flex;
-    flex-direction: row;
-    width: 600px;
-    border-radius: 10px;
-    background-color: #ffffff;
-    height: 70px;
-    justify-content: center;
-  }
-
-  .category-button {
-    height: 50px;
-    border-radius: 10px;
-    font-weight: 500;
-    font-size: 20px;
-    border: 1px solid #cbcaca61;
-    background-color: #fff;
-  } */
-  .first-blog-button {
-  }
+  
+  
   .button-blog {
     background-color: #dd0000;
     color: #ffff;
-    width: 170px;
+    /* width: 170px; */
   }
   .footer-menu {
     display: flex;
