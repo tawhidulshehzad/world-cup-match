@@ -308,7 +308,7 @@ Responsive design
   .match-category {
     display: flex;
     flex-direction: row;
-    width: 600px;
+    width: 800px;
     border-radius: 10px;
     background-color: #ffffff;
     height: 70px;
@@ -319,9 +319,12 @@ Responsive design
     height: 50px;
     border-radius: 10px;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     border: 1px solid #cbcaca61;
     background-color: #fff;
+  }
+  .first-blog-button {
+    
   }
   .button-blog {
     background-color: #dd0000;
